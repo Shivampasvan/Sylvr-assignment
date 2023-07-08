@@ -19,7 +19,7 @@ app.use("/users", userRouter)
 // app.use("/orders", orderRouter)
 
 // --------------->>>>>>>> Default EndPoint <<<<<<<<-------------------
-app.get("/", (req, res) => res.send(`<h1 style="text-align:center; color:purple">Welcome To Bloom Beauty Backend</h1>`))
+app.get("/", (req, res) => res.send(`<h1 style="text-align:center; color:purple">Welcome To Sylvr Assignment Backend</h1>`))
 
 // --------------->>>>>>>> Server Running <<<<<<<<-------------------
 
